@@ -1,0 +1,8 @@
+{
+  "name": "dogql",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:forsigner/dogql.git",
+  "author": "forsigner <forsigner@gmail.com>",
+  "license": "MIT"
+}
